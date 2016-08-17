@@ -9,21 +9,21 @@ description: >-
   December through to March. It has become a 'mecca' for powder snow lovers
   across the globe. The region of Niseko has become a well known hub of activity
   for all things winter. 
-datePublished: '2016-08-17T23:24:56.556Z'
-dateModified: '2016-08-17T23:13:44.459Z'
+datePublished: '2016-08-17T23:39:55.517Z'
+dateModified: '2016-08-17T23:39:54.644Z'
 title: ''
 author:
   - name: ''
     url: ''
 via: {}
+sourcePath: _posts/2016-05-01-hokkaido-mountain-experience.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-hokkaido-mountain-experience.md
 url: hokkaido-mountain-experience/index.html
 _type: Blurb
 
