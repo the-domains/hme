@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hokkaido Mountain Experience]]></title>
+        <description><![CDATA[Hokkaido Mountain Experience]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 23:25:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It is no secret that Hokkaido the north island of Japan is the 'epicentre' of 'powder snow' skiing and snowboarding for enthusiast 's from around the globe.</p>]]></description>
+            <link>undefinedit-is-no-secret-that-hokkaido-the-north-island-of-japan-is-t/index.html</link>
+            <guid isPermaLink="false">700fb8be-d6f4-40e3-b5f9-0ba1ea409f75</guid>
+            <pubDate>Wed, 17 Aug 2016 23:25:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
