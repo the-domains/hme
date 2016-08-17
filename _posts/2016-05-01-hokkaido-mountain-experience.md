@@ -4,22 +4,26 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "The island of Hokkaido accumulates snow in vast amounts during the months of December through to March. It has become a 'mecca' for powder snow lovers across the globe. The region of Niseko has become a well known hub of activity for all things winter.  "
-datePublished: '2016-05-01T07:24:49.580Z'
-dateModified: '2016-05-01T07:22:15.842Z'
+description: >-
+  The island of Hokkaido accumulates snow in vast amounts during the months of
+  December through to March. It has become a 'mecca' for powder snow lovers
+  across the globe. The region of Niseko has become a well known hub of activity
+  for all things winter. 
+datePublished: '2016-08-17T23:24:56.556Z'
+dateModified: '2016-08-17T23:13:44.459Z'
 title: ''
 author:
   - name: ''
     url: ''
+via: {}
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
-starred: true
+starred: false
 sourcePath: _posts/2016-05-01-hokkaido-mountain-experience.md
-published: true
 url: hokkaido-mountain-experience/index.html
 _type: Blurb
 
